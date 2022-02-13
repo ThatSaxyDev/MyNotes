@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881562948827",
+    "project_id": "mynew-27e56",
+    "storage_bucket": "mynew-27e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881562948827:android:9733c024306301969968fe",
+        "android_client_info": {
+          "package_name": "com.kiishi.mynew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881562948827-7t20fglqab03p8mfj9b91o57n9btmbl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRq11yswbdlnD2gTyDo1eKZfm8wNoBgyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881562948827-7t20fglqab03p8mfj9b91o57n9btmbl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
