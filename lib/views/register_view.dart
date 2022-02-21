@@ -51,7 +51,7 @@ class _RegisterViewState extends State<RegisterView> {
               autocorrect: false,
               controller: _password,
               decoration: const InputDecoration(
-                hintText: 'Enter your passwore here',
+                hintText: 'Enter your password here',
               )),
           TextButton(
             onPressed: () async {
